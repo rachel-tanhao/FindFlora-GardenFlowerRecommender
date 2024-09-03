@@ -10,6 +10,25 @@ If so, FindFlora is here to help. 💡
 
 Utilizing advanced **t-SNE algorithms** for dimensional reduction and **quadtree structures** for efficient spatial querying, FindFlora delivers tailored flower recommendations to enhance the growth and aesthetic harmony of your garden. 🌸✨
 
+
+## 😎 Developers
+
+- 👩‍💻 **Hao Tan:** [@tanhaow](https://github.com/tanhaow)
+- 👩‍💻 **Zairui Yang:** [@zairuiy-coding](https://github.com/zairuiy-coding)
+
+👾**Notice:** The original repository for the development of FindFlora was a **private** repo under the CIS department at the University of Pennsylvania. This **public** repo is a fork of the original project, created **solely for portfolio demo purposes**. Please note that certain records, data, and commit history have been excluded to maintain confidentiality and comply with academic policies.
+
+<div align="center" style="text-align:center;">
+  <img src="https://github.com/user-attachments/assets/d49776ce-8e4c-4af0-a854-be9bdca1ab44" alt="Demo" width="500" height="auto">
+  <div style="margin-top: 20px;"></div>
+  <figcaption style="text-align:center"><em>section of the commit history from the original private repository</em></figcaption>
+</div>
+
+### 📘 References and Credits
+
+- **Flower Dataset:** Powered by a comprehensive dataset from Kaggle with extensive data on 200+ flower types. [View Dataset](https://www.kaggle.com/datasets/kkhandekar/a-to-z-flowers-features-images)
+- **Smile Machine Learning Library:** Utilizes Smile for Java to compute the t-SNE scores foundational to our recommendation engine. [Learn More about Smile](https://github.com/haifengl/smile)
+
 ### 🚀 Usage
 
 1. **Fork This Repository**
@@ -17,26 +36,9 @@ Utilizing advanced **t-SNE algorithms** for dimensional reduction and **quadtree
 3. **Build the Project**
 4. **Run the GardenFlowerSearchApp Class**
 
-### 📘 References and Credits
-
-- **Flower Dataset:** Powered by a comprehensive dataset from Kaggle with extensive data on 200+ flower types. [View Dataset](https://www.kaggle.com/datasets/kkhandekar/a-to-z-flowers-features-images)
-- **Smile Machine Learning Library:** Utilizes Smile for Java to compute the t-SNE scores foundational to our recommendation engine. [Learn More about Smile](https://github.com/haifengl/smile)
-
-## 😎 Developers
-
-- 👩‍💻 **Hao Tan:** [@tanhaow](https://github.com/tanhaow)
-- 👩‍💻 **Zairui Yang:** [@zairuiy-coding](https://github.com/zairuiy-coding)
-
-👾**Notice:** The original repository for the development of FindFlora was a **private** repository under the CIS department at the University of Pennsylvania. This **public** repository is a fork of the original project, created **solely for portfolio demo purposes**. Please note that certain records, data, and commit history have been excluded to maintain confidentiality and comply with academic policies.
-
-<div align="center" style="text-align:center;">
-  <img src="https://github.com/user-attachments/assets/d49776ce-8e4c-4af0-a854-be9bdca1ab44" alt="Demo" width="300" height="auto">
-  <div style="margin-top: 20px;"></div>
-  <figcaption style="text-align:center"><em>Section of commit history from the orginal repo for the development of the project.</em></figcaption>
-</div>
-
-
 ---
+
+## -- Detailed Info of the Project --
 
 FindFlora is a Java-based application that employs machine learning techniques and spatial data structures to offer personalized flower recommendations. Designed for both novice and expert gardeners, our system helps integrate the best blooms into your green spaces.
 
