@@ -1,8 +1,6 @@
 # FindFlora 💛👩‍🌾🌻
 
-Welcome to FindFlora! 
-
-Are you passionate about gardening? 
+Welcome to FindFlora! Are you passionate about gardening? 
 
 Looking for a smart way to select the perfect flowers for your garden based on specific conditions? 
 
@@ -19,7 +17,7 @@ Utilizing advanced **t-SNE algorithms** for dimensional reduction and **quadtree
 👾**Notice:** The original repository for the development of FindFlora was a **private** repo under the CIS department at the University of Pennsylvania. This **public** repo is a fork of the original project, created **solely for portfolio demo purposes**. Please note that certain records, data, and commit history have been excluded to maintain confidentiality and comply with academic policies.
 
 <div align="center" style="text-align:center;">
-  <img src="https://github.com/user-attachments/assets/d49776ce-8e4c-4af0-a854-be9bdca1ab44" alt="Demo" width="500" height="auto">
+  <img src="https://github.com/user-attachments/assets/d49776ce-8e4c-4af0-a854-be9bdca1ab44" alt="Demo" width="600" height="auto">
   <div style="margin-top: 20px;"></div>
   <figcaption style="text-align:center"><em>section of the commit history from the original private repository</em></figcaption>
 </div>
@@ -38,7 +36,7 @@ Utilizing advanced **t-SNE algorithms** for dimensional reduction and **quadtree
 
 ---
 
-## -- Detailed Info of the Project --
+## -- Detailed Info About the Project --
 
 FindFlora is a Java-based application that employs machine learning techniques and spatial data structures to offer personalized flower recommendations. Designed for both novice and expert gardeners, our system helps integrate the best blooms into your green spaces.
 
