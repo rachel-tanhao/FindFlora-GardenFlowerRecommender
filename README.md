@@ -10,7 +10,9 @@ Utilizing advanced **t-SNE algorithms** for dimensional reduction and **quadtree
 - 👩‍💻 **Hao Tan:** [@tanhaow](https://github.com/tanhaow)
 - 👩‍💻 **Zairui Yang:** [@zairuiy-coding](https://github.com/zairuiy-coding)
 
-👾**Notice:** The original repository for the development of FindFlora was a **private** repository under the CIS department at the University of Pennsylvania. This **public** repository is a fork of the original project, created **solely for portfolio demo purposes**. Please note that certain records, data, and specific implementations have been excluded to maintain confidentiality and comply with academic policies.
+👾**Notice:** The original repository for the development of FindFlora was a **private** repository under the CIS department at the University of Pennsylvania. This **public** repository is a fork of the original project, created **solely for portfolio demo purposes**. Please note that certain records, data, and commit history have been excluded to maintain confidentiality and comply with academic policies.
+![findflora](https://github.com/user-attachments/assets/d49776ce-8e4c-4af0-a854-be9bdca1ab44)
+
 
 ---
 
