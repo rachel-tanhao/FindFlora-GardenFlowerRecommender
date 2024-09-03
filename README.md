@@ -1,9 +1,26 @@
 # FindFlora 💛👩‍🌾🌻
 
-Welcome to FindFlora! Are you passionate about gardening? Looking for a smart, efficient way to select the perfect flowers for your garden based on specific environmental conditions? If so, FindFlora is here to help. 💡
+Welcome to FindFlora! 
+
+Are you passionate about gardening? 
+
+Looking for a smart way to select the perfect flowers for your garden based on specific conditions? 
+
+If so, FindFlora is here to help. 💡
 
 Utilizing advanced **t-SNE algorithms** for dimensional reduction and **quadtree structures** for efficient spatial querying, FindFlora delivers tailored flower recommendations to enhance the growth and aesthetic harmony of your garden. 🌸✨
 
+### 🚀 Usage
+
+1. **Fork This Repository**
+2. **Open in an IDE**
+3. **Build the Project**
+4. **Run the GardenFlowerSearchApp Class**
+
+### 📘 References and Credits
+
+- **Flower Dataset:** Powered by a comprehensive dataset from Kaggle with extensive data on 200+ flower types. [View Dataset](https://www.kaggle.com/datasets/kkhandekar/a-to-z-flowers-features-images)
+- **Smile Machine Learning Library:** Utilizes Smile for Java to compute the t-SNE scores foundational to our recommendation engine. [Learn More about Smile](https://github.com/haifengl/smile)
 
 ## 😎 Developers
 
@@ -11,7 +28,12 @@ Utilizing advanced **t-SNE algorithms** for dimensional reduction and **quadtree
 - 👩‍💻 **Zairui Yang:** [@zairuiy-coding](https://github.com/zairuiy-coding)
 
 👾**Notice:** The original repository for the development of FindFlora was a **private** repository under the CIS department at the University of Pennsylvania. This **public** repository is a fork of the original project, created **solely for portfolio demo purposes**. Please note that certain records, data, and commit history have been excluded to maintain confidentiality and comply with academic policies.
-![findflora](https://github.com/user-attachments/assets/d49776ce-8e4c-4af0-a854-be9bdca1ab44)
+
+<div align="center" style="text-align:center;">
+  <img src="https://github.com/user-attachments/assets/d49776ce-8e4c-4af0-a854-be9bdca1ab44" alt="Demo" width="300" height="auto">
+  <div style="margin-top: 20px;"></div>
+  <figcaption style="text-align:center"><em>Section of commit history from the orginal repo for the development of the project.</em></figcaption>
+</div>
 
 
 ---
@@ -68,17 +90,7 @@ A BFS-like traversal identifies similar flowers starting from a specific node an
 - **Layered Search:** Thoroughly selects flower recommendations by examining neighboring nodes. The traversal begins with the node's descendants, which are within the same area and likely close to each other. It then moves upwards to the node's siblings, parent's siblings, and beyond.
 - **Approximate Nearest Neighbors:** Efficiently finds similar flowers by prioritizing speed and practical relevance over exact accuracy, ensuring quick and relevant recommendations.
 
-### 🚀 Usage
 
-1. **Fork This Repository**
-2. **Open in an IDE**
-3. **Build the Project**
-4. **Run the GardenFlowerSearchApp Class**
-
-### 📘 References and Credits
-
-- **Flower Dataset:** Powered by a comprehensive dataset from Kaggle with extensive data on 200+ flower types. [View Dataset](https://www.kaggle.com/datasets/kkhandekar/a-to-z-flowers-features-images)
-- **Smile Machine Learning Library:** Utilizes Smile for Java to compute the t-SNE scores foundational to our recommendation engine. [Learn More about Smile](https://github.com/haifengl/smile)
 
 ### 🌟 Contribute
 
