@@ -27,12 +27,6 @@ Utilizing advanced **t-SNE algorithms** for dimensional reduction and **quadtree
 - **Flower Dataset:** Powered by a comprehensive dataset from Kaggle with extensive data on 200+ flower types. [View Dataset](https://www.kaggle.com/datasets/kkhandekar/a-to-z-flowers-features-images)
 - **Smile Machine Learning Library:** Utilizes Smile for Java to compute the t-SNE scores foundational to our recommendation engine. [Learn More about Smile](https://github.com/haifengl/smile)
 
-### 🚀 Usage
-
-1. **Fork This Repository**
-2. **Open in an IDE**
-3. **Build the Project**
-4. **Run the GardenFlowerSearchApp Class**
 
 ---
 
@@ -90,6 +84,12 @@ A BFS-like traversal identifies similar flowers starting from a specific node an
 - **Layered Search:** Thoroughly selects flower recommendations by examining neighboring nodes. The traversal begins with the node's descendants, which are within the same area and likely close to each other. It then moves upwards to the node's siblings, parent's siblings, and beyond.
 - **Approximate Nearest Neighbors:** Efficiently finds similar flowers by prioritizing speed and practical relevance over exact accuracy, ensuring quick and relevant recommendations.
 
+### 🚀 Usage
+
+1. **Fork This Repository**
+2. **Open in an IDE**
+3. **Build the Project**
+4. **Run the GardenFlowerSearchApp Class**
 
 
 ### 🌟 Contribute
