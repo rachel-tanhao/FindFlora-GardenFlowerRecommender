@@ -1,15 +1,8 @@
-# FindFlora - Your Smart Gardening Companion 👩‍🌾🌻
+# FindFlora - Your Smart Gardening Companion 👩‍🌾🌻💛
 
-Welcome to FindFlora! Are you passionate about gardening? 💛 
-
-Looking for a smart way to select the perfect flowers for your garden based on specific conditions? 🌿
-
-If so, FindFlora is here to help. 💡
+Welcome to FindFlora! 🌿 Are you passionate about gardening?  Looking for a smart way to select the perfect flowers for your garden based on specific conditions? If so, FindFlora is here to help.💡
 
 Utilizing advanced **t-SNE algorithms** for dimensional reduction and **quadtree structures** for efficient spatial querying, FindFlora delivers tailored flower recommendations to enhance the growth and aesthetic harmony of your garden. 🌸✨
-
-![FindFlora](FindFlora.jpg)
-
 
 ### ✨ Key Features
 
@@ -17,6 +10,10 @@ Utilizing advanced **t-SNE algorithms** for dimensional reduction and **quadtree
 - **Efficient Search:** Find flowers quickly through our attribute-indexed search system.
 - **Data-Driven Insights:** Powered by a comprehensive Kaggle flower dataset, ensuring high-quality recommendations.
 - **Advanced Algorithms:** Utilize machine learning and spatial querying to generate the most relevant flower suggestions.
+
+![FindFlora](FindFlora.jpg)
+
+
 
 ## 😎 References and Credits
 ### Developers
@@ -40,7 +37,7 @@ Utilizing advanced **t-SNE algorithms** for dimensional reduction and **quadtree
 
 
 ## 📖 Table of Contents
-- [FindFlora - Your Smart Gardening Companion 👩‍🌾🌻](#findflora---your-smart-gardening-companion-)
+- [FindFlora - Your Smart Gardening Companion 👩‍🌾🌻💛](#findflora---your-smart-gardening-companion-)
     - [✨ Key Features](#-key-features)
   - [😎 References and Credits](#-references-and-credits)
     - [Developers](#developers)
